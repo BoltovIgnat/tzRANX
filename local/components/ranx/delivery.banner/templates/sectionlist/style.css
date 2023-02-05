@@ -1,0 +1,43 @@
+.ibc-top-block-wrapper{
+    position: relative;
+}
+.ibc-delivery-bgr{
+    height: 496px;
+    background: linear-gradient(90deg, #383838 50%, rgba(56, 56, 56, 0) 93.32%);
+    border-radius: 3px;
+}
+.ibc-delivery-bgr img{
+    background: #383838;
+    mix-blend-mode: hue;
+    display: flex;
+    float: right;
+    width: 50%;
+    height: inherit;
+}
+.ibc-delivery-txt{
+    position: relative;
+    max-width: 1408px;
+    top: -30vh;
+    color: aliceblue;
+    padding: 0px 35px;
+    margin: 0 auto;
+    float: none;
+}
+.ibc-delivery-txt-title{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 13px;
+    /* identical to box height, or 38% */
+
+    letter-spacing: 0.03em;
+}
+.ibc-delivery-txt-description{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 66px;
+
+}

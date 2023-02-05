@@ -1,0 +1,25 @@
+.ibc-deliveri-item{
+    height: 100px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    margin: 16px;
+}
+.ibc-delivery-item-img{
+    margin-left: 35px;
+}
+.ibc-delivery-item-txt{
+    margin-left: 15px;
+}
+.ibc_sdek{
+    background: #EFF8F1;
+}
+.ibc_dl{
+    background: #FFF8ED;
+}
+.ibc_tk{
+    background: #EDFAFC;
+}
+.ibc_self{
+    background: #F8F6FD;
+}
